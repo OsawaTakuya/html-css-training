@@ -16,3 +16,8 @@ body {
 li {
     margin: 0 1.5rem;
 }
+
+a, li {
+    text-decoration: none;
+    color: #333;
+}
